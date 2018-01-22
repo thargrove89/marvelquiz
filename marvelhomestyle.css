@@ -1,0 +1,140 @@
+/*Marvel Style*/
+
+h1{
+	border: none;
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	margin-top:100px;
+	width: 500px;
+	margin-left: auto;
+	margin-right:auto;
+	
+	
+}
+
+body{
+background-image: url(images/marvelwp1.png);
+}
+
+}
+a button:hover{
+	color:indigo;
+}
+
+
+
+.image-container{
+	width:500px;
+	margin-left: auto;
+	margin-right:auto;
+	height: 363px;
+	border: solid 5px purple;
+	margin-top:-33px;
+	
+
+}
+
+
+
+.start-button{
+	margin-left: 45%;
+	width: 140px;
+	height: 50px;
+	color: red;
+	background-color: lightblue;
+	font-size: 20px;
+	cursor:pointer;
+}
+a button:hover{
+	color:indigo;
+}
+
+
+
+
+
+
+@media screen and (max-width:1190px) {
+	
+	.image-container{
+	margin-left: auto;
+	margin-right:auto;
+	height: 363px;
+	margin-top:-33px;
+	
+
+}
+
+h1{
+	border: none;
+	text-align: center;
+	font-size: 50px;
+	color: red;
+	margin-top:100px;
+	width: 500px;
+	margin-left: auto;
+	margin-right:auto;
+	
+	
+}
+
+.start-button{
+	margin-left: 43%;
+	width: 140px;
+	height: 50px;
+	color: red;
+	background-color: lightblue;
+	font-size: 20px
+}
+
+
+
+
+	
+}
+
+
+@media screen and (max-width:500px) {
+	h1{
+	border: none;
+	text-align: center;
+	font-size: 30px;
+	color: red;
+	margin-top:100px;
+	margin-bottom:0px;
+	width: 100%;
+	margin-left: 0px;
+	
+	
+}
+
+	.image-container{
+	width: 100%;
+	margin-left: 0px;
+	height: 263px;
+	border: 1px solid purple;
+	margin-top: 0px;
+	
+
+}
+
+.start-button{
+	margin-left: 30%;
+	width: 40%;
+	height: 40px;
+	color: red;
+	background-color: lightblue;
+	font-size: 20px;
+	margin-top: 0px;	
+}
+
+
+
+
+
+
+	
+	
+	
+}
